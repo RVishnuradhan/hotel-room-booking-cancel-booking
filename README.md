@@ -16,6 +16,12 @@ When a booking is cancelled, the room status is updated and marked as available.
 ## Technology Used
 - C Programming
 - File Handling
+## Sample Input and Output
+Input:
+Enter Room Number to Cancel Booking: 101
+
+Output:
+Booking cancelled successfully for Room 101
 
 ## Author
 <vishnu>
