@@ -1,0 +1,5 @@
+Sample Input:
+Enter Room Number to Cancel Booking: 101
+
+Sample Output:
+Booking cancelled successfully for Room 101
